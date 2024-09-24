@@ -1,1 +1,4 @@
-readme
+As first file i wanted to create i decided to make an expense tracker. It has everything a young budgeter needs! every expense is subdivided into different
+sub sections, and each sub section will be displayed as a cumulated expesne. 
+I also added some pie charts to visualize the cash inflow/outflow as well as a chart that will calculate your cashflow. 
+I will eventually add the option to track certain investments but maybe not right now, maybe in the future as i was planning on making it in another separate project
