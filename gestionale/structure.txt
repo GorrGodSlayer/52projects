@@ -1,0 +1,36 @@
+restaurant_app/
+│
+├── backend/
+│   ├── restaurant_app/
+│   │   ├── __init__.py
+│   │   ├── settings.py
+│   │   ├── urls.py
+│   │   └── wsgi.py
+│   ├── core/
+│   │   ├── __init__.py
+│   │   ├── models.py
+│   │   └── views.py
+│   ├── menu/
+│   │   ├── __init__.py
+│   │   └── models.py
+│   ├── orders/
+│   │   ├── __init__.py
+│   │   └── models.py
+│   ├── tables/
+│   │   ├── __init__.py
+│   │   └── models.py
+│   ├── payments/
+│   │   ├── __init__.py
+│   │   └── views.py
+│   └── manage.py
+│
+└── frontend/
+    ├── public/
+    │   └── index.html
+    ├── src/
+    │   ├── components/
+    │   │   ├── Login.js
+    │   │   └── Payment.js
+    │   ├── App.js
+    │   └── index.js
+    └── package.json
